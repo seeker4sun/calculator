@@ -1,4 +1,4 @@
-# ch 5.2.1 ctrl.py
+# ch 6.2.2 ctrl.py
 class Control:
     def __init__(self, view):
         self.view = view
